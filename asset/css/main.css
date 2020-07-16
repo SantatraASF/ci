@@ -1,0 +1,7 @@
+.blur{
+    filter: blur(10px);
+    transition: all 1s;
+}
+.noblur{
+    transition: all 0.5s;
+}
